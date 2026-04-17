@@ -53,6 +53,20 @@ A custom-built bookmark manager with:
 - **Design**: CSS Grid, Flexbox, Glassmorphism, Canvas API (for Matrix effect).
 
 ---
+## Screenshots
+
+#### Focus Hub
+<img width="2190" height="1179" alt="Screenshot from 2026-04-17 20-47-06" src="https://github.com/user-attachments/assets/1d768ed9-feba-4d1c-b9a6-50625cc0eab5" />
+
+#### Developer Hub
+<img width="2190" height="1179" alt="Screenshot from 2026-04-17 20-46-48" src="https://github.com/user-attachments/assets/05c95692-b512-4639-8cb2-bd7514799268" />
+
+#### System Configuration
+<img width="2190" height="1179" alt="Screenshot from 2026-04-17 20-46-56" src="https://github.com/user-attachments/assets/c5decebd-8cef-469a-aadb-4d68c6a5eee5" />
+
+
+
+---
 
 ## Installation
 
