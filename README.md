@@ -58,7 +58,7 @@ A custom-built bookmark manager with:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/devesh-rawat/Dev_Tab.git
+   git clone https://github.com/devesh-rawat/DevTab.git
    ```
 2. Open Chrome and navigate to chrome://extensions/.
 
