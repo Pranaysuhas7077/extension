@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Pranay_suhas: The Ultimate Cyberpunk Developer Dashboard
 
 **Pranay_suhas** is a feature-rich, high-performance Chrome Extension that replaces your default "New Tab" page with a futuristic, hacker-themed command center. Designed for developers who live in the terminal and breathe productivity.
@@ -89,3 +90,6 @@ Contributions are welcome! If you have ideas for new terminal commands or UI imp
 
 ## 👤 Author
 Pranay_suhas
+=======
+# extension
+>>>>>>> 012c79aac3fe1675173bf5346a1c8cac8d0a4cbb
