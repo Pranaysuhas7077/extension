@@ -1,6 +1,6 @@
-# Dev_Tab: The Ultimate Cyberpunk Developer Dashboard
+# Pranay_suhas: The Ultimate Cyberpunk Developer Dashboard
 
-**Dev_Tab** is a feature-rich, high-performance Chrome Extension that replaces your default "New Tab" page with a futuristic, hacker-themed command center. Designed for developers who live in the terminal and breathe productivity.
+**Pranay_suhas** is a feature-rich, high-performance Chrome Extension that replaces your default "New Tab" page with a futuristic, hacker-themed command center. Designed for developers who live in the terminal and breathe productivity.
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Version](https://img.shields.io/badge/version-1.0-blue)
@@ -72,7 +72,7 @@ A custom-built bookmark manager with:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/devesh-rawat/DevTab.git
+   git clone https://
    ```
 2. Open Chrome and navigate to chrome://extensions/.
 
@@ -88,4 +88,4 @@ A custom-built bookmark manager with:
 Contributions are welcome! If you have ideas for new terminal commands or UI improvements, feel free to fork the repo and submit a PR.
 
 ## 👤 Author
-Devesh Rawat
+Pranay_suhas
